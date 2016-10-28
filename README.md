@@ -1,3 +1,4 @@
 # Test
-just trying
-Trying to learn github. does not really understand how it works jet. 
+Trying
+Trying to learn github. Does not really understand how it works Jet. 
+How does it work? 
